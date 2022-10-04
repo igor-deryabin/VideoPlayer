@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlayerExample</string>
+
+    <string name="main_tabs_all">Все</string>
+    <string name="main_tabs_favorites">Избранные</string>
+
+    <string name="main_filter_hint">Напишите название телеканала</string>
+
+    <string name="quality_auto">AUTO</string>
+</resources>
